@@ -4,7 +4,7 @@ title: About
 ---
 
 {:refdef: style="text-align: center;margin-bottom: 20px;"}
-![Yo](../img/photo.jpeg){:id="img-yo"}
+![Yo](../img/about/photo.jpeg){:id="img-yo"}
 {:refdef}
 
 Hola, soy [Samuel Coronil Heras](https://www.linkedin.com/in/samuel-coronil-heras-71875322b/), SysAdmin especializado en **entornos Multicloud** (Microsoft Azure, AWS y Google Cloud). Me considero un tecnólogo apasionado por el mundo del desarrollo web, teniendo conocimientos en **lenguajes de programación**, tales como: **Python, Javascript, PHP, Powershell y Bash**.
