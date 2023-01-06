@@ -22,5 +22,5 @@ Debido a mis intereses, mi objetivo es profesionalizarme como **DevOps** y así 
 - El despliegue de **contenedores con Docker y Kubernetes**
 - La **infraestructura como código** con **Terraform**
 - El **control de versiones** con **Git**
-- La **automatización de tareas** y scripting con **Python**
+- La **automatización de tareas** y **scripting** con **Python** y **Bash**
 - La **monitorización** con **Prometheus y Grafana**
